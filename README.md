@@ -1,4 +1,4 @@
-﻿# python
+# python
 
 파이썬 시작하기 강의 전 해야할 일
 
@@ -20,7 +20,6 @@
   * staged 영역의 변경분을 하나의 작업 단위로 뭉친다.
 * `git push origin master` (깃헙에 올리기)
   * origin(깃헙서버)의 master 브랜치로 올린다.
-* `https://guides.github.com/features/mastering-markdown`
 
 
 ## day1
